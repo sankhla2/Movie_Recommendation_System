@@ -1,6 +1,6 @@
 # Movie_Recommendation_System
 Introduction
-All the OTT (over-the-top) platforms like Netflix, Amazon Prime, etc, use a movie recommender system to predict/filter the movies/items as per the user's behavior. An organization's goal is to retain a user on the platform for as long as possible so that it can make them as much money as feasible. Various machine learning algorithms can be used to fulfill the above requirement and better recommendations also result in more positive user feedback. Thus, in this hackathon, you have to develop a recommender system for movies.
+All the OTT (over-the-top) platforms like Netflix, Amazon Prime, etc, use a movie recommender system to predict/filter the movies/items as per the user's behavior. An organization's goal is to retain a user on the platform for as long as possible so that it can make them as much money as feasible. Various machine learning algorithms can be used to fulfill the above requirement and better recommendations also result in more positive user feedback.
 ## Problem Statement
 To make a movie recommender system using a different machine-learning algorithm using the given dataset.Create an interactive application for the recommender system preferably using the python Tkinter library.
 ## Basic recommender system 
